@@ -1,4 +1,6 @@
 //primitive
+
+
                  
 //1.//NNSSBBU
 //full form
